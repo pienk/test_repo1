@@ -4,5 +4,6 @@ int main()
 {
 	printf("hello other new version\n");
 	test2();
+	printf("hello new feature\n");
 	return 1;
 }
